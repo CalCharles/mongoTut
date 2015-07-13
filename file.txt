@@ -1,1 +1,4 @@
-hello there, this is a file
+hello there, this is a file containing useful information: 
+If you want to run, you have to install MongoDB on your local computer
+(You can look at the first exercise to figure that one out)
+You also have to run npm install learnyoumongo -g, but that is pretty clear
